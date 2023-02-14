@@ -1,8 +1,9 @@
-## Quiz JS
+## Quiz with JS OOP
 
-A lightweight Quiz application created in JavaScript with Array.
+A lightweight Quiz application created with JavaScript OOP.
 
-This project was a lightweight javascript-based quiz taker, done in order to pick up and further strengthen my skills in JavaScript. 
+This project was a lightweight javascript-based quiz taker, done in order to pick up and further strengthen my skills using object oriented programming in JavaScript. 
+
 As a result whilst it isn't the prettiest or most functional it  was done in order to increase my proficiency level in various programming languages.
 
 
